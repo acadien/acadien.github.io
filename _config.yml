@@ -4,3 +4,4 @@ description: Engineering Leadership | Robotics & Autonomous Systems
 linkedin_url: https://www.linkedin.com/in/adam-cadien-a3969620/
 show_downloads: true  # Set to true if you want to show PDF download link
 pdf_resume: /acadien_resume.md
+redirect_to:/acadien_resume.md
