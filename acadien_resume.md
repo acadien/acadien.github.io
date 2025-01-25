@@ -2,7 +2,7 @@ Robotics leader with 10+ years of experience scaling autonomous systems from pro
 
 ## Professional Experience
 
-### [Blue River Technology](www.bluerivertech.com)
+### [Blue River Technology](https://www.bluerivertech.com)
 **Director - Software Engineering - See & Spray Product** | July 2021–Present
 
 Led an organization of 50 engineers across four squads, with five manager and senior manager direct reports. 
@@ -15,7 +15,7 @@ Led an organization of 50 engineers across four squads, with five manager and se
   
 Previously: Senior Manager of Robotics Software and founder of Data Infrastructure team
 
-### [FarmWise](www.farmwise.io)
+### [FarmWise](https://www.farmwise.io)
 **Manager - Robotic Software** | July 2019–April 2021
 
 Hired and led a team of 7 Software and Research Engineers building full autonomy stack for autonomous weeding robots.
