@@ -1,6 +1,7 @@
-adamcadien-at-gmail-dot-com
+Robotics leader with 10+ years of experience scaling autonomous systems from prototype to production. Track record of building high-performing engineering organizations. Known for fostering technical excellence and healthy engineering culture.
 
-Robotics leader with 10+ years of experience scaling autonomous systems from prototype to production. Track record of building high-performing engineering organizations of 50+ people. Known for fostering technical excellence and healthy engineering culture.
+[View My LinkedIn Profile](https://www.linkedin.com/in/adam-cadien-a3969620/)
+[Contact Me](mailto:adamcadien@gmail.com)
 
 ## Professional Experience
 
@@ -45,7 +46,7 @@ Key Achievements:
 
 ### Apple
 **Research Engineer - Special Project Group** | 2015–2017
-- Developed 3D geometry algorithms and realtime C++ libraries for Titan autonomous vehicle project
+- Developed 3D geometry algorithms and realtime C++ libraries for an autonomous vehicle project
 
 ### George Mason University
 **Graduate Researcher, Graduate Lecturer** | 2009–2015
@@ -62,5 +63,3 @@ Key Achievements:
 - Speaker, Open Problems for Robots in Food Supply Chain (2020)
 - 8 Patents in lidar segmentation and calibration (2017-2019)
 - Invited Speaker, NASA HQ - "Applications of Computational Science" (2013)
-
-*Complete work history including internships and research experience available on [LinkedIn](https://www.linkedin.com/in/adam-cadien-a3969620/)*
