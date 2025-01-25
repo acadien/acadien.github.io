@@ -1,6 +1,5 @@
 # Adam Cadien, PhD
-1532 Treat Ave, San Francisco Ca, 94110  
-408-207-6806 • adamcadien@gmail.com
+adamcadien@gmail.com
 
 ## Professional Summary
 Robotics leader with 10+ years of experience scaling autonomous systems from prototype to production. Track record of building high-performing engineering organizations of 50+ people. Known for fostering technical excellence and healthy engineering culture.
