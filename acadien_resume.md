@@ -53,7 +53,9 @@ School of Physics and Computational Science
 **PhD** Computational Materials Science, George Mason University (2015)
 - Proposed & Discovered a first order Liquid-Liquid phase transition in [Cerium](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qNIeZBYAAAAJ&citation_for_view=qNIeZBYAAAAJ:JQOojiI6XY0C)
 - Thesis: "The Structure and Dynamics of Monatomic Liquid Polymorphs"
+
 **MSc** Computational Science and Informatics, George Mason University (2012)
+
 **BSc** Physics & Computer Science with Honors, University of British Columbia (2008)
 
 ## Honors & Recognition
