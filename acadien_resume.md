@@ -1,9 +1,5 @@
 Robotics leader with 10+ years of experience scaling autonomous systems from prototype to production. Track record of building high-performing engineering organizations. Known for fostering technical excellence and healthy engineering culture.
 
-[View My LinkedIn Profile](https://www.linkedin.com/in/adam-cadien-a3969620/)
-
-[Contact Me](mailto:adamcadien@gmail.com)
-
 ## Professional Experience
 
 ### [Blue River Technology](www.bluerivertech.com)
@@ -64,3 +60,9 @@ Key Achievements:
 - Speaker, Open Problems for Robots in Food Supply Chain (2020)
 - 8 Patents in lidar segmentation and calibration (2017-2019)
 - Invited Speaker, NASA HQ - "Applications of Computational Science" (2013)
+
+# Adam Cadien, PhD
+
+[View My LinkedIn Profile](https://www.linkedin.com/in/adam-cadien-a3969620/)
+
+[Contact Me](mailto:adamcadien@gmail.com)
