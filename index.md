@@ -1,1 +1,0 @@
-[](acadien_resume.md)
