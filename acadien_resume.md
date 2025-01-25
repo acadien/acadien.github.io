@@ -35,22 +35,26 @@ Proposed, hired and led a 10-person team developing vehicle sensor calibration s
 - Served as Perception Sensor Lead and M&A panel member
 
 **Senior Software Engineer - Lidar Segmentation** | July 2017–May 2018
-- Reduced false positive detections from once per minute to once per hour fleet-wide
+- Reduced false positive detections (resulting in a manual take over) from once per minute to once per hour fleet-wide
 - Developed patented detection method for safety-critical lidar identification
 - Evaluated novel Lidar sensor designs for vehicle integration
 
 ### Apple
 **Research Engineer - Special Project Group** | 2015–2017
-- Developed 3D geometry algorithms and realtime C++ libraries for an autonomous vehicle project
+
+Developed 3D geometry algorithms and realtime C++ libraries for an autonomous vehicle project
 
 ### George Mason University
 **Graduate Researcher, Graduate Lecturer** | 2009–2015
-- School of Physics and Computational Science
+
+School of Physics and Computational Science
 
 ## Education
-- **PhD** Computational Materials Science, George Mason University (2015)
-- **MSc** Computational Science and Informatics, George Mason University (2012)
-- **BSc** Physics & Computer Science with Honors, University of British Columbia (2008)
+**PhD** Computational Materials Science, George Mason University (2015)
+- Proposed & Discovered a first order Liquid-Liquid phase transition in [Cerium](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qNIeZBYAAAAJ&citation_for_view=qNIeZBYAAAAJ:JQOojiI6XY0C)
+- Thesis: "The Structure and Dynamics of Monatomic Liquid Polymorphs"
+**MSc** Computational Science and Informatics, George Mason University (2012)
+**BSc** Physics & Computer Science with Honors, University of British Columbia (2008)
 
 ## Honors & Recognition
 - High Performer Award - Blue River Leadership (2023)
