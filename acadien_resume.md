@@ -1,4 +1,4 @@
-Robotics leader with 10+ years of experience scaling autonomous systems from prototype to production. Track record of building high-performing engineering organizations. Known for fostering technical excellence and a healthy engineering culture.
+Robotics leader with 10+ years of experience scaling autonomous systems from prototype to production. Known for fostering technical excellence and a healthy tech culture.
 
 ## Professional Experience
 
