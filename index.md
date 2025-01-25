@@ -1,7 +1,5 @@
-# Adam Cadien, PhD
 adamcadien-at-gmail-dot-com
 
-## Professional Summary
 Robotics leader with 10+ years of experience scaling autonomous systems from prototype to production. Track record of building high-performing engineering organizations of 50+ people. Known for fostering technical excellence and healthy engineering culture.
 
 ## Professional Experience
@@ -59,7 +57,7 @@ Key Achievements:
 - **BSc** Physics & Computer Science with Honors, University of British Columbia (2008)
 
 ## Honors & Recognition
-- High Performing Manager Award - Blue River Leadership (2023)
+- High Performer Award - Blue River Leadership (2023)
 - NASA ROSES Funding Panelist - Technology for Agronomy (2022)
 - Speaker, Open Problems for Robots in Food Supply Chain (2020)
 - 8 Patents in lidar segmentation and calibration (2017-2019)
