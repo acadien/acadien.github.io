@@ -1,18 +1,18 @@
-Robotics leader with 10+ years of experience scaling autonomous systems from prototype to production. Track record of building high-performing engineering organizations. Known for fostering technical excellence and healthy engineering culture.
+Robotics leader with 10+ years of experience scaling autonomous systems from prototype to production. Track record of building high-performing engineering organizations. Known for fostering technical excellence and a healthy engineering culture.
 
 ## Professional Experience
 
 ### [Blue River Technology](www.bluerivertech.com)
 **Director - Software Engineering - See & Spray Product** | July 2021–Present
 
-Led organization of 50 engineers across four squads, with five manager and senior manager direct reports. Drove end-to-end software development from R&D to commercial production.
+Led an organization of 50 engineers across four squads, with five manager and senior manager direct reports. 
 
-Key Achievements:
 - Scaled product from 3 engineering R&D vehicles to 1,500+ commercial deployments across two product generations
-- Optimized software stack to process 36 camera feeds within 100ms latency requirements
-- Established and maintained strategic partnerships with three John Deere organizations
-- Launched 'Self Improving Machine' and 'Direct Inject' technical initiatives
+- Optimized a ML heavy software stack to process 36 camera feeds within 100ms latency requirements
+- Established and maintained strategic partnerships with three John Deere organizations, reducing deployment time from annual to monthly
+- Launched Self Improving Machine, Direct Inject and Test Automation initiatives
 - Enhanced engineering culture through Quarterly Lightning talks and Engineering Town Halls
+  
 Previously: Senior Manager of Robotics Software and founder of Data Infrastructure team
 
 ### [FarmWise](www.farmwise.io)
@@ -20,17 +20,15 @@ Previously: Senior Manager of Robotics Software and founder of Data Infrastructu
 
 Hired and led a team of 7 Software and Research Engineers building full autonomy stack for autonomous weeding robots.
 
-Key Achievements:
-- Scaled from single prototype to fleet of 13 simultaneous commercial operations within 16 months
+- Scaled from a single prototype to fleet of 13 simultaneous commercial operations within 16 months
 - Implemented data-driven automated testing system to reduce on-call burden
 - Maintained team cohesion through early-stage startup challenges
 
 ### [Cruise](https://www.getcruise.com/)
 **Manager - Perception - Automated Calibration** | May 2018–July 2019
 
-Founded and led 10-person team developing vehicle sensor calibration systems.
+Proposed, hired and led a 10-person team developing vehicle sensor calibration systems.
 
-Key Achievements:
 - Built end-to-end calibration stack for Radar, Lidar, Cameras and IMUs
 - Initiated sensor recording and processing pipeline to improve development speed
 - Integrated calibration into manufacturing & fleet maintenance operations
