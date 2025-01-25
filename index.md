@@ -1,12 +1,12 @@
 # Adam Cadien, PhD
-adamcadien@gmail.com
+adamcadien-at-gmail-dot-com
 
 ## Professional Summary
 Robotics leader with 10+ years of experience scaling autonomous systems from prototype to production. Track record of building high-performing engineering organizations of 50+ people. Known for fostering technical excellence and healthy engineering culture.
 
 ## Professional Experience
 
-### Blue River Technology
+### [Blue River Technology](www.bluerivertech.com)
 **Director - Software Engineering - See & Spray Product** | July 2021–Present
 
 Led organization of 50 engineers across four squads, with five manager and senior manager direct reports. Drove end-to-end software development from R&D to commercial production.
@@ -19,7 +19,7 @@ Key Achievements:
 - Enhanced engineering culture through Quarterly Lightning talks and Engineering Town Halls
 Previously: Senior Manager of Robotics Software and founder of Data Infrastructure team
 
-### FarmWise
+### [FarmWise](www.farmwise.io)
 **Manager - Robotic Software** | July 2019–April 2021
 
 Hired and led a team of 7 Software and Research Engineers building full autonomy stack for autonomous weeding robots.
@@ -29,7 +29,7 @@ Key Achievements:
 - Implemented data-driven automated testing system to reduce on-call burden
 - Maintained team cohesion through early-stage startup challenges
 
-### Cruise
+### [Cruise](https://www.getcruise.com/)
 **Manager - Perception - Automated Calibration** | May 2018–July 2019
 
 Founded and led 10-person team developing vehicle sensor calibration systems.
